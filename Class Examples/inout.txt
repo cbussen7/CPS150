@@ -1,0 +1,3 @@
+Hello, my name is Christopher Bussen - my email is bussenc1@udayton.edu
+CPS 150 02 - Algorithms and Programming 1
+The date and time is Thu Oct 29 11:18:42 EDT 2020
